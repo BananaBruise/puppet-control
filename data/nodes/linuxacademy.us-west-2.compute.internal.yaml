@@ -1,0 +1,7 @@
+---
+profile::apache::apache_vhost_servers: {
+        'linuxacademy.us-west-2.compute.internal': {
+    port: 80,
+    docroot: '/var/www/htu',
+  }
+}
