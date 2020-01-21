@@ -29,8 +29,8 @@ mod 'htu_ntp',
 
 mod 'role',
   git:    'https://github.com/BananaBruise/htu-role.git',
-  branch: 'development'
+  branch: 'master'
 
 mod 'profile',
   git:    'https://github.com/BananaBruise/puppet-profile.git',
-  branch: 'development'
+  branch: 'master'
