@@ -12,6 +12,7 @@ mod 'puppetlabs/apt',     '7.3.0'
 mod 'puppetlabs/translate', '2.1.0'
 mod 'puppetlabs/powershell', '3.0.1'
 mod 'puppetlabs/reboot',   '2.3.0'
+mod 'puppetlabs/apache',  '5.3.0'
 
 # Modules from Git
 # Examples: https://github.com/puppetlabs/r10k/blob/master/doc/puppetfile.mkd#examples
