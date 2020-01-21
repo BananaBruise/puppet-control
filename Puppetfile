@@ -27,7 +27,7 @@ mod 'ssh',
   git:    'https://github.com/BananaBruise/puppet-ssh',
   branch: 'master'
 
-mod 'ntp',
+mod 'htu_ntp',
   git:    'https://github.com/BananaBruise/htu_ntp.git',
   branch: 'master'
 
