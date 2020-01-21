@@ -6,8 +6,12 @@ mod 'puppetlabs/inifile', '3.0.0'
 mod 'puppetlabs/stdlib',  '6.0.0'
 mod 'puppetlabs/concat',  '6.0.0'
 mod 'puppetlabs/java',    '6.0.0'
-mod 'puppet/selinux', '3.1.0'
+mod 'puppet/selinux',     '3.1.0'
 mod 'puppetlabs/docker',  '3.9.1'
+mod 'puppetlabs/apt',     '7.3.0'
+mod 'puppetlabs/translate', '2.1.0'
+mod 'puppetlabs/powershell', '3.0.1'
+mod 'puppetlabs/reboot',   '2.3.0'
 
 # Modules from Git
 # Examples: https://github.com/puppetlabs/r10k/blob/master/doc/puppetfile.mkd#examples
