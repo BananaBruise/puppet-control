@@ -35,6 +35,6 @@ mod 'profile',
   git:    'https://github.com/BananaBruise/puppet-profile.git',
   branch: 'master'
 
-mod 'nginx'
+mod 'nginx',
   git:    'https://github.com/BananaBruise/puppet-nginx.git',
   branch: 'master'
