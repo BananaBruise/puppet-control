@@ -5,3 +5,6 @@ profile::apache::apache_vhost_servers: {
     docroot: '/var/www/htu',
   }
 }
+
+    classes:
+     - profile::apache

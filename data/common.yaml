@@ -6,3 +6,5 @@ profile::base::ntp_servers:
   - 3.debian.pool.ntp.org
 profile::apache::default_vhost: false
 foo: bar
+classes:
+ - profile::base
